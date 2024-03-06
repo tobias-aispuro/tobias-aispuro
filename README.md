@@ -1,7 +1,9 @@
 ### Hi 👋, I'm Tobias
 
 -🔭 I’m currently studying systems engineering at Universidad Nacional Del Sur.
+
 -🌱 I am currently learning web programming and artificial intelligence, and also cybersecurity.
+
 -📫 How to reach me tobiasaispuroinfo@gmail.com
 
 ## 🌐 Socials:
